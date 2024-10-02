@@ -1,2 +1,1 @@
-# 44-563-WebApps-F24-Assignment5
-responsive design
+# WebApps-Assignment-5 Starter Code
